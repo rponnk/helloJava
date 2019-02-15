@@ -1,0 +1,31 @@
+Java terms
+Class- a class acts as a blueprint, we can use the “blueprint” to build many houses based on the plans.
+Reference – using a house as an analogy, if you want to tell someone where you live you give them your address by texting or writing it down, you’re referencing.
+references can be passed into parameters, constructors and methods.
+example
+class House {
+private String color;
+public House(String color) {
+	this.color = color;
+}
+}
+Both super and this can be used anywhere but static areas.
+Super – is used to access/call the parent class members (variables and methods).
+This – is used to call the current class members
+This() – use this() to call ca constructor from another overloaded constructor in the same class,
+Should only be used in a constructor class and has to be first statement – check constructor file
+Super() – this is to used to reference an outside file, or parent file.
+Examples
+class House {
+private String color;
+public House(String color) {
+	this.color = color;
+}
+}
+
+
+
+
+Refer to java notes
+ 
+
