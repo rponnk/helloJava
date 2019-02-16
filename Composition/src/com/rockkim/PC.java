@@ -1,25 +1,28 @@
 package com.rockkim;
 
 public class PC {
-    private Case theCase;
-    private Monitor monitor;
+    private Monitor theMonitor;
     private Motherboard motherboard;
+    private Case theCase;
 
-    public PC(Case theCase, Monitor monitor, Motherboard motherboard) {
-        this.theCase = theCase;
-        this.monitor = monitor;
+    public PC(Monitor theMonitor, Motherboard motherboard, Case theCase) {
+        this.theMonitor = theMonitor;
         this.motherboard = motherboard;
+        this.theCase = theCase;
     }
 
-    public Case getTheCase() {
-        return theCase;
+    public void powerUp() {
+        theCase.pressPower();
+        drawLogo();
+        biosStart();
     }
 
-    public Monitor getMonitor() {
-        return monitor;
+    private void drawLogo() {
+        theMonitor.drawPixelAt(1200, 500);
     }
 
-    public Motherboard getMotherboard() {
-        return motherboard;
+    private void biosStart() {
+        motherboard.loadProgram("Windows 10");
     }
+
 }

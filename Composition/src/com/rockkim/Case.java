@@ -1,41 +1,28 @@
 package com.rockkim;
 
-import java.awt.*;
-
 public class Case {
-   private String model;
-   private String manufacturer;
-   private String psu;
-   private Dimensions dimension;
+    private String psu;
+    private String model;
+    private Dimensions dimensions;
 
-    public Case(String model, String manufacturer, String psu, Dimensions dimension) {
-        this.model = model;
-        this.manufacturer = manufacturer;
+    public Case(String psu, String model, Dimensions dimensions) {
         this.psu = psu;
-        this.dimension = dimension;
+        this.model = model;
+        this.dimensions = dimensions;
     }
 
     public void pressPower() {
-        System.out.println("you have pressed power button");
+        System.out.println("power button was pressed");
     }
-
-    public void resetButton() {
-        System.out.println("restarting your computer...");
+    public String getPsu() {
+        return psu;
     }
 
     public String getModel() {
         return model;
     }
 
-    public String getManufacturer() {
-        return manufacturer;
-    }
-
-    public String getPsu() {
-        return psu;
-    }
-
-    public Dimensions getDimension() {
-        return dimension;
+    public Dimensions getDimensions() {
+        return dimensions;
     }
 }

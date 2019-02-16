@@ -1,30 +1,22 @@
 package com.rockkim;
 
-import com.sun.org.apache.xpath.internal.operations.Mod;
-
 public class Monitor {
     private String model;
-    private String manufacturer;
     private int size;
+    //created Resolution file(this is composition)
     private Resolution nativeResolution;
 
-    public Monitor(String model, String manufacturer, int size, Resolution nativeResolution) {
+    public Monitor(String model, int size, Resolution nativeResolution) {
         this.model = model;
-        this.manufacturer = manufacturer;
         this.size = size;
         this.nativeResolution = nativeResolution;
     }
-
-    public void drawPixelAt(int x, int y, String color) {
-        System.out.println("Pixel is " + x +  " " + y );
+    public void drawPixelAt(int x, int y) {
+        System.out.println("Resolution is " + x + " x " + y);
     }
 
     public String getModel() {
         return model;
-    }
-
-    public String getManufacturer() {
-        return manufacturer;
     }
 
     public int getSize() {

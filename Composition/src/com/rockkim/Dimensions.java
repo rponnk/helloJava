@@ -1,31 +1,19 @@
 package com.rockkim;
 
 public class Dimensions {
-    private int height;
     private int width;
-    private int depth;
-    private int buttons;
+    private int height;
 
-    public Dimensions(int height, int width, int depth, int buttons) {
-        this.height = height;
+    public Dimensions(int width, int height) {
         this.width = width;
-        this.depth = depth;
-        this.buttons = buttons;
-    }
-
-    public int getHeight() {
-        return height;
+        this.height = height;
     }
 
     public int getWidth() {
         return width;
     }
 
-    public int getDepth() {
-        return depth;
-    }
-
-    public int getButtons() {
-        return buttons;
+    public int getHeight() {
+        return height;
     }
 }
