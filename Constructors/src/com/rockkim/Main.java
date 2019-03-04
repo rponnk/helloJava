@@ -5,6 +5,8 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
         Account olliesAccount = new Account("12345678", 50000.00, "Rock", "rock@g.com", "192356456");
+        Account erikasAccount = new Account();
+        erikasAccount.withdraw(100);
         olliesAccount.deposit(2000000);
         olliesAccount.withdraw(2050000);
 

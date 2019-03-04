@@ -7,6 +7,7 @@ public class Main {
         System.out.println(calculateScore(75));
         calculateScore();
 
+
         //Switch
         int value = 3;
         switch(value) {
@@ -91,7 +92,6 @@ public class Main {
             System.out.println("Inches in CM = " + inches * 2.54);
         }
     }//END OF METHOD OVERLOADING
-
 
 
 }
