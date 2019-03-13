@@ -11,7 +11,7 @@ public class Condiments {
 
     public String getCondiments() {
         if(this.ketchupSquirts >= 1 || this.mustardSquirts >= 1) {
-            return "condiments added";
+            return "condiments";
         } else {
             return "no condiments";
         }

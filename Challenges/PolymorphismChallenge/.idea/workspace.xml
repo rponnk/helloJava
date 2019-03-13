@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac3bd77a-18e1-4813-9720-0fa3d5de334e" name="Default Changelist" comment="" />
+    <list default="true" id="ac3bd77a-18e1-4813-9720-0fa3d5de334e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../EncapsulationChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EncapsulationChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EncapsulationChallenge/out/production/EncapsulationChallenge/com/rockkim/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EncapsulationChallenge/out/production/EncapsulationChallenge/com/rockkim/Printer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EncapsulationChallenge/src/com/rockkim/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EncapsulationChallenge/src/com/rockkim/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/rockkim/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rockkim/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Composition/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Composition/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Composition/out/production/Composition/com/rockkim/Case.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Composition/out/production/Composition/com/rockkim/Case.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Composition/out/production/Composition/com/rockkim/PC.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Composition/out/production/Composition/com/rockkim/PC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Composition/src/com/rockkim/Case.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Composition/src/com/rockkim/Case.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Composition/src/com/rockkim/PC.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Composition/src/com/rockkim/PC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Encapsulation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Encapsulation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Encapsulation/out/production/Encapsulation/com/rockkim/EnhancedPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Encapsulation/out/production/Encapsulation/com/rockkim/EnhancedPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Encapsulation/out/production/Encapsulation/com/rockkim/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Encapsulation/out/production/Encapsulation/com/rockkim/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Encapsulation/out/production/Encapsulation/com/rockkim/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Encapsulation/out/production/Encapsulation/com/rockkim/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Encapsulation/src/com/rockkim/EnhancedPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Encapsulation/src/com/rockkim/EnhancedPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Encapsulation/src/com/rockkim/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Encapsulation/src/com/rockkim/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Encapsulation/src/com/rockkim/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Encapsulation/src/com/rockkim/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Inheritance/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Polymorphism/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Polymorphism/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Polymorphism/out/production/Polymorphism/com/rockkim/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Polymorphism/out/production/Polymorphism/com/rockkim/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Polymorphism/out/production/Polymorphism/com/rockkim/StarWars.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Polymorphism/out/production/Polymorphism/com/rockkim/StarWars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Polymorphism/out/production/Polymorphism/com/rockkim/TopGun.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Polymorphism/out/production/Polymorphism/com/rockkim/TopGun.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,15 +35,15 @@
     <session id="-571835379">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
-          <entry key="project.open.time.0" value="10" />
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.0" value="11" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="795" />
+          <entry key="JAVA" value="806" />
         </counts>
       </usages-collector>
     </session>
@@ -31,8 +53,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/rockkim/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="598">
-              <caret line="58" column="13" selection-start-line="56" selection-start-column="5" selection-end-line="58" selection-end-column="13" />
+            <state relative-caret-position="1173">
+              <caret line="81" column="32" selection-start-line="81" selection-start-column="32" selection-end-line="81" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -63,9 +85,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -117,7 +139,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2771855" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2803838" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -126,7 +148,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -151,8 +173,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/rockkim/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="58" column="13" selection-start-line="56" selection-start-column="5" selection-end-line="58" selection-end-column="13" />
+        <state relative-caret-position="1173">
+          <caret line="81" column="32" selection-start-line="81" selection-start-column="32" selection-end-line="81" selection-end-column="32" />
         </state>
       </provider>
     </entry>

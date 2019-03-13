@@ -12,7 +12,7 @@ public class Case {
     }
 
     public void pressPower() {
-        System.out.println("power button was pressed");
+        System.out.println("Power button was pressed");
     }
     public String getPsu() {
         return psu;

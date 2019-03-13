@@ -15,4 +15,16 @@ public class Player {
     public int healthRemaining() {
         return this.health;
     }
+
+    public String getName() {
+        return name;
+    }
+
+    public int getHealth() {
+        return health;
+    }
+
+    public String getWeapon() {
+        return weapon;
+    }
 }

@@ -36,11 +36,11 @@ public class Hamburger {
 
     public void totalPrice() {
         DecimalFormat numberFormat = new DecimalFormat("#.00");
-         double burgerPrice = this.burger * 1.62;
+         double burgerPrice = this.burger * 3.62;
          double cheesePrice = this.cheeseSlice * .50;
-         double lettuce = this.lettuce * .12;
+         double lettuce = this.lettuce * .15;
          double pickle = this.pickles * .12;
-         double tomato = this.tomato * .22;
+         double tomato = this.tomato * .26;
          double total = burgerPrice + cheesePrice + lettuce + pickle + tomato;
         System.out.println("Your total price: $" + numberFormat.format(total) + " cents");
     }

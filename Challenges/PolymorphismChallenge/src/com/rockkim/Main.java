@@ -11,7 +11,7 @@ class Car {
         this.doors = doors;
     }
     public String details() {
-        return engine + " engine the model is: " + model + " it has " + doors;
+        return engine + " engine, the model is: " + model + " it has " + doors + " doors";
 
     }
 

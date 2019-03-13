@@ -18,7 +18,7 @@ public class EnhancedPlayer {
         if(this.hitPoints <= 0 ) {
             System.out.println("Player knocked out");
         } else {
-            System.out.println(this.hitPoints);
+            System.out.println(this.hitPoints + " reamins ");
         }
     }
 

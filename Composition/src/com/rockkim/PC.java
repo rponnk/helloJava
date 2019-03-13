@@ -18,7 +18,7 @@ public class PC {
     }
 
     private void drawLogo() {
-        theMonitor.drawPixelAt(1200, 500);
+        theMonitor.drawPixelAt(1920, 1080);
     }
 
     private void biosStart() {
