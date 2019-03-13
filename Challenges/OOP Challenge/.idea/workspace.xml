@@ -1,36 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e60d5d6-99c1-43e7-aa28-924997345cfa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../EncapsulationChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EncapsulationChallenge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EncapsulationChallenge/out/production/EncapsulationChallenge/com/rockkim/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EncapsulationChallenge/out/production/EncapsulationChallenge/com/rockkim/Printer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EncapsulationChallenge/src/com/rockkim/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EncapsulationChallenge/src/com/rockkim/Printer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP Challenge/com/rockkim/Food.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP Challenge/com/rockkim/burgerMurger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/rockkim/Condiments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rockkim/Condiments.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/rockkim/Hamburger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rockkim/Hamburger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/rockkim/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rockkim/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PolymorphismChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PolymorphismChallenge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PolymorphismChallenge/out/production/PolymorphismChallenge/com/rockkim/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PolymorphismChallenge/out/production/PolymorphismChallenge/com/rockkim/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PolymorphismChallenge/src/com/rockkim/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PolymorphismChallenge/src/com/rockkim/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Composition/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Composition/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Composition/out/production/Composition/com/rockkim/Case.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Composition/out/production/Composition/com/rockkim/Case.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Composition/out/production/Composition/com/rockkim/PC.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Composition/out/production/Composition/com/rockkim/PC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Composition/src/com/rockkim/Case.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Composition/src/com/rockkim/Case.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Composition/src/com/rockkim/PC.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Composition/src/com/rockkim/PC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Encapsulation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Encapsulation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Encapsulation/out/production/Encapsulation/com/rockkim/EnhancedPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Encapsulation/out/production/Encapsulation/com/rockkim/EnhancedPlayer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Encapsulation/out/production/Encapsulation/com/rockkim/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Encapsulation/out/production/Encapsulation/com/rockkim/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Encapsulation/out/production/Encapsulation/com/rockkim/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Encapsulation/out/production/Encapsulation/com/rockkim/Player.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Encapsulation/src/com/rockkim/EnhancedPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Encapsulation/src/com/rockkim/EnhancedPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Encapsulation/src/com/rockkim/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Encapsulation/src/com/rockkim/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Encapsulation/src/com/rockkim/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Encapsulation/src/com/rockkim/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Inheritance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Inheritance/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Polymorphism/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Polymorphism/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Polymorphism/out/production/Polymorphism/com/rockkim/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Polymorphism/out/production/Polymorphism/com/rockkim/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Polymorphism/out/production/Polymorphism/com/rockkim/StarWars.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Polymorphism/out/production/Polymorphism/com/rockkim/StarWars.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Polymorphism/out/production/Polymorphism/com/rockkim/TopGun.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Polymorphism/out/production/Polymorphism/com/rockkim/TopGun.class" afterDir="false" />
-    </list>
+    <list default="true" id="3e60d5d6-99c1-43e7-aa28-924997345cfa" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +13,7 @@
     <session id="2076254316">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.opened" value="3" />
@@ -208,7 +179,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
